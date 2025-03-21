@@ -2,9 +2,8 @@
 ## Bem vindo ao meu perfil 🙂🙂
 
 
-- 🙂 Em busca de uma nova oportunidade para estágio ou dev junior.
+- 🙂 Em busca de uma nova oportunidade para estágio.
 - 🧑‍💻 Foco em Back-End mas sempre disposto a aprender coisas novas.
-- 💬 Pergunte-me sobre qualquer coisa, irei ajudá-lo.
 - 📫 Como entrar em contato comigo: (16)98163-1619.
 
 
