@@ -40,15 +40,10 @@ Olá! Sou desenvolvedor com foco em **Back-End**. Atualmente trabalho como Assis
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-### 💼 Experiência
-
-- **Assistente de Desenvolvimento de Sistemas** - Sertran Transportes (Jul 2025 - Presente)
-- **Estagiário de Desenvolvimento** - MadeiraMadeira (Jun 2022 - Fev 2024)
-  - Security Engineering, Developer Experience, Platform Engineering
 
 ### 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** - Fatec Ribeirão Preto (2021 - 2025)
+- **Análise e Desenvolvimento de Sistemas** - Fatec Ribeirão Preto
 
 ### 📫 Contato
 
