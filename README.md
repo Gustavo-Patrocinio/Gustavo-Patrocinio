@@ -7,6 +7,7 @@ Olá! Sou desenvolvedor com foco em **Back-End**. Atualmente trabalho como Assis
 
 ### 🚀 Sobre mim
 - 💼 Assistente de Desenvolvimento de Sistemas na **Sertran Transportes**
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela **Fatec Ribeirão Preto**
 - 🎯 Foco em desenvolvimento **Backend** com Node.js e TypeScript
 - 🐍 Automação de processos com **Python**
 - ☁️ Experiência com **Google Cloud Platform**, Firebase e Firestore
